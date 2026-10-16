@@ -12,3 +12,6 @@ data/lancedb/
 .DS_Store
 .deepeval/
 .trae-html-share-packages/
+
+# 检索解析文档（仅本地使用，不入库）
+zhishu-rag-retrieval解析/
