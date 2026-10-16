@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "a8d13fadc6d3f2ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "00902ad605691a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb26f211388f4a9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19ff0aa4c96ba6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a76b8aa650d9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4531b2e89cc4529f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8015a29b6ae05d91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "徐峰",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8103305122a8ba66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fa6b62b43e2b6d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77a2e5f10a285dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc846bebe82625b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "af1a73c3449a6b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiki/entity/徐峰.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "4db89df9777cb8e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e68af72fb8587de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1a09a57d10ecb540",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wiki/entity/徐峰.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "411bb4ff8a579b50",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Raw/每天吃透一个AI知识点：MCP模型上下文协议.md"
+              },
+              "icon": "lucide-info",
+              "title": "每天吃透一个AI知识点：MCP模型上下文协议的笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "cb26f211388f4a9e",
+  "lastOpenFiles": [
+    "Wiki/entity/马超.md",
+    "Wiki/concept/CI_CD.md",
+    "Wiki/entity/徐峰.md",
+    "Wiki/index.md",
+    "rag-demo/_tmp_cases.py",
+    "rag-demo/_tmp_chunk.py",
+    "Raw/融创中国_财务共享中心_技术架构设计_20240225.md",
+    "rag-demo/_tmp_full.py",
+    "rag-demo/_tmp_plan3.py",
+    "rag-demo/_tmp_layer.py",
+    "rag-demo/_tmp_and.py",
+    "rag-demo/_tmp_plan1.py",
+    "Wiki/entity/财务共享中心.md",
+    "Raw/万科集团_统一身份认证_来往账目_20240719.md",
+    "Wiki/entity/商务拓展部.md",
+    "Wiki/entity/中化集团.md",
+    "Wiki/concept/预算管理.md",
+    "Wiki/entity/智慧园区平台.md",
+    "中国中车.md",
+    "Wiki/entity/黄丽.md",
+    "Wiki/entity/万科集团.md",
+    "Wiki/entity/中国联通.md",
+    "rag-demo/_test_cx.py",
+    "rag-demo/_test_ui.py",
+    "rag-demo/_test_auto.py",
+    "Wiki/entity/周军.md",
+    "Wiki/entity/胡斌.md",
+    "Wiki/concept/CI:CD.md",
+    "Wiki/concept/Docker.md",
+    "Wiki/concept/Kubernetes.md",
+    "Wiki/entity/星辰数智科技有限公司.md",
+    "Wiki/entity/企业微信.md",
+    "Raw/中国石油_物联网管理平台_技术方案_20260317.md",
+    "Wiki/concept/采购.md",
+    "Wiki/source/华能集团_项目管理系统_项目管理计划_20251104.md",
+    "未命名.canvas"
+  ]
+}

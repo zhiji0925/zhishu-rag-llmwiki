@@ -1,0 +1,14 @@
+# 环境变量（含 API Key，禁止入库）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 生成的向量库数据（可通过 python ingest.py 重建）
+data/lancedb/
+
+# 系统与工具缓存
+.DS_Store
+.deepeval/
+.trae-html-share-packages/

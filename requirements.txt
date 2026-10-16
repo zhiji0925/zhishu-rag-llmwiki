@@ -1,0 +1,10 @@
+# 企业知识库 RAG 问答系统 - Python 依赖
+# 安装: pip install -r requirements.txt（需 Python 3.10+）
+
+lancedb>=0.15        # 向量数据库（含 BM25 全文检索 FTS 索引）
+pyarrow              # LanceDB 底层 Arrow 表结构与 schema 定义
+fastapi              # Web 服务框架（/api/meta、/api/ask SSE 接口）
+uvicorn              # ASGI 服务器（运行 FastAPI 应用）
+openai>=1.40         # Embedding 与 LLM 的 OpenAI 兼容客户端
+python-dotenv        # 启动时从 .env 加载配置
+jieba                # 中文分词（BM25 入库分词与查询分词）
